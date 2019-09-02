@@ -1,4 +1,4 @@
-# flutter_bloc_boilerplate
+# flutter_BLoC_boilerplate
 
 bloc boilerplate project created in flutter inspired by [state_experiments](https://github.com/filiph/state_experiments?source=post_page-----13950959e381----------------------).
 
